@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"a5b7472e8392b47a6e3fa5cadcb3ed3af168cd3d"},"timestamp":1587218971,"metadata":{"github-id":"MDU6SXNzdWU2MDI0Njg1OTY=","github-url":"https://github.com/frodeaa/git-bug-testing/issues/1","origin":"github"},"title":"Issue 1","message":"- [ ] unchecked\n- [x] checked","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"id":"a5b7472e8392b47a6e3fa5cadcb3ed3af168cd3d"},"timestamp":1587218971,"metadata":{"github-id":"MDEyOkxhYmVsZWRFdmVudDMyNDc0OTk3MDM="},"added":["bug"],"removed":[]}]}
